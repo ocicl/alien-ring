@@ -1,0 +1,10 @@
+* alien-ring
+
+Alien Ring is an implementation of the ring-buffer with the DWORD
+wrap-around trick.
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/mateuszb/alien-ring.git |
+| commit  | 9bad594                                        |
+| systems | alien-ring                                     |
+|---------+------------------------------------------------|
